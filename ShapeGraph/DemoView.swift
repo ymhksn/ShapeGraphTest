@@ -55,6 +55,7 @@ class DemoView: UIView {
          )
          */
         
+        //Ada perubahan disni.
         
         // Specify the fill color and apply it to the path.
         UIColor.orange.setFill()
